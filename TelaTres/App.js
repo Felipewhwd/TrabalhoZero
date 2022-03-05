@@ -3,7 +3,7 @@ import{
   View,
   Text,
   StyleSheet,
-  TextImput,
+  TextInput,
   SafeAreaView,
   StatusBar,
   TouchableOpacity,
